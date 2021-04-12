@@ -1,4 +1,4 @@
-Weekly Testing Dataset Summary 2021-04-07
+Weekly Testing Dataset Summary 2021-04-12
 =========================================
 
     knitr::kable(inactive)
@@ -42,10 +42,6 @@ Weekly Testing Dataset Summary 2021-04-07
 <tr class="even">
 <td style="text-align: left;">Vietnam - samples tested</td>
 <td style="text-align: left;">2021-03-15</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Iran - tests performed</td>
-<td style="text-align: left;">2021-03-16</td>
 </tr>
 </tbody>
 </table>
