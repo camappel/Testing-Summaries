@@ -45,8 +45,11 @@ for (i in df_pop$entity) {
   }
 }
 ```
-
-```{r}
+# Out of date countries:
+```{r echo=FALSE}
 knitr::kable(inactive)
+```
+# Missing countries:
+```{r echo=FALSE}
 cat(paste('-',miss),sep='\n')
 ```

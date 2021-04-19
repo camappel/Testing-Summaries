@@ -1,7 +1,8 @@
 Weekly Testing Dataset Summary 2021-04-19
 =========================================
 
-    knitr::kable(inactive)
+Out of date countries:
+======================
 
 <table>
 <colgroup>
@@ -64,7 +65,8 @@ Weekly Testing Dataset Summary 2021-04-19
 </tbody>
 </table>
 
-    cat(paste('-',miss),sep='\n')
+Missing countries:
+==================
 
     ## - Afghanistan
     ## - Algeria
