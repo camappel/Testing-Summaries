@@ -2,7 +2,7 @@ Weekly Testing Dataset Summary 2021-04-19
 =========================================
 
 Out of date countries:
-======================
+----------------------
 
 <table>
 <colgroup>
@@ -66,7 +66,7 @@ Out of date countries:
 </table>
 
 Missing countries:
-==================
+------------------
 
     ## - Afghanistan
     ## - Algeria
