@@ -63,3 +63,134 @@ Weekly Testing Dataset Summary 2021-04-19
 </tr>
 </tbody>
 </table>
+
+    cat(paste('-',miss,sep='\n'))
+
+    ## -
+    ## Afghanistan -
+    ## Algeria -
+    ## American Samoa -
+    ## Angola -
+    ## Anguilla -
+    ## Antigua and Barbuda -
+    ## Aruba -
+    ## Azerbaijan -
+    ## Bahamas -
+    ## Barbados -
+    ## Belize -
+    ## Benin -
+    ## Bermuda -
+    ## Bonaire Sint Eustatius and Saba -
+    ## Botswana -
+    ## British Virgin Islands -
+    ## Brunei -
+    ## Burkina Faso -
+    ## Burundi -
+    ## Cambodia -
+    ## Cameroon -
+    ## Cayman Islands -
+    ## Central African Republic -
+    ## Chad -
+    ## Channel Islands -
+    ## Comoros -
+    ## Congo -
+    ## Cook Islands -
+    ## Curacao -
+    ## Djibouti -
+    ## Dominica -
+    ## Egypt -
+    ## Equatorial Guinea -
+    ## Eritrea -
+    ## Faeroe Islands -
+    ## Falkland Islands -
+    ## Gabon -
+    ## Georgia -
+    ## Gibraltar -
+    ## Greenland -
+    ## Grenada -
+    ## Guam -
+    ## Guinea -
+    ## Guinea-Bissau -
+    ## Guyana -
+    ## Haiti -
+    ## High-income countries -
+    ## Honduras -
+    ## Isle of Man -
+    ## Kiribati -
+    ## Kosovo -
+    ## Kyrgyzstan -
+    ## Land-locked Developing Countries (LLDC) -
+    ## Laos -
+    ## Least developed countries -
+    ## Lebanon -
+    ## Lesotho -
+    ## Less developed regions -
+    ## Liberia -
+    ## Low-income countries -
+    ## Lower-middle-income countries -
+    ## Macao -
+    ## Mali -
+    ## Marshall Islands -
+    ## Mauritius -
+    ## Melanesia -
+    ## Micronesia -
+    ## Micronesia (country) -
+    ## Middle-income countries -
+    ## Moldova -
+    ## Monaco -
+    ## Montenegro -
+    ## Montserrat -
+    ## More developed regions -
+    ## Nauru -
+    ## Nicaragua -
+    ## Niger -
+    ## Niue -
+    ## North Korea -
+    ## Northern Mariana Islands -
+    ## Palau -
+    ## Papua New Guinea -
+    ## Polynesia -
+    ## Puerto Rico -
+    ## Saint Helena -
+    ## Saint Kitts and Nevis -
+    ## Saint Lucia -
+    ## Saint Vincent and the Grenadines -
+    ## Samoa -
+    ## San Marino -
+    ## Sao Tome and Principe -
+    ## Serbia (including Kosovo) -
+    ## Seychelles -
+    ## Sierra Leone -
+    ## Sint Maarten (Dutch part) -
+    ## Solomon Islands -
+    ## Somalia -
+    ## Sudan -
+    ## Suriname -
+    ## Eswatini -
+    ## Syria -
+    ## Tajikistan -
+    ## Tanzania -
+    ## Timor -
+    ## Tokelau -
+    ## Tonga -
+    ## Turkmenistan -
+    ## Turks and Caicos Islands -
+    ## Tuvalu -
+    ## United States Virgin Islands -
+    ## Upper-middle-income countries -
+    ## Uzbekistan -
+    ## Vanuatu -
+    ## Vatican -
+    ## Venezuela -
+    ## Western Sahara -
+    ## World -
+    ## Yemen -
+    ## Guernsey -
+    ## Jersey -
+    ## North America -
+    ## Asia -
+    ## Africa -
+    ## Europe -
+    ## South America -
+    ## Oceania -
+    ## European Union
