@@ -48,5 +48,5 @@ for (i in df_pop$entity) {
 
 ```{r}
 knitr::kable(inactive)
-cat(paste('-',miss,sep='\n'))
+cat(paste('-',miss),sep='\n')
 ```
