@@ -1,4 +1,4 @@
-Weekly Testing Dataset Summary 2021-04-19
+Weekly Testing Dataset Summary 2021-04-26
 =========================================
 
 Out of date countries:
@@ -61,6 +61,12 @@ Out of date countries:
 <td style="text-align: left;">2021-03-23</td>
 <td style="text-align: left;"><a href="http://www.chp.gov.hk/files/misc/statistics_on_covid_19_testing_cumulative.csv" class="uri">http://www.chp.gov.hk/files/misc/statistics_on_covid_19_testing_cumulative.csv</a></td>
 <td style="text-align: right;">74</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Mauritania - tests performed</td>
+<td style="text-align: left;">2021-04-04</td>
+<td style="text-align: left;"><a href="http://www.sante.gov.mr/wp-content/uploads/2020/04/01-04-2020-Mauritanie-Sitrep-COVID-19_FR.pdf" class="uri">http://www.sante.gov.mr/wp-content/uploads/2020/04/01-04-2020-Mauritanie-Sitrep-COVID-19_FR.pdf</a></td>
+<td style="text-align: right;">333</td>
 </tr>
 </tbody>
 </table>
