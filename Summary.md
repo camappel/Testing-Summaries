@@ -1,4 +1,4 @@
-Weekly Testing Dataset Summary 2021-04-27
+Weekly Testing Dataset Summary 2021-05-03
 =========================================
 
 Out of date countries:
@@ -62,6 +62,18 @@ Out of date countries:
 <td style="text-align: left;"><a href="http://www.sante.gov.mr/wp-content/uploads/2020/04/01-04-2020-Mauritanie-Sitrep-COVID-19_FR.pdf" class="uri">http://www.sante.gov.mr/wp-content/uploads/2020/04/01-04-2020-Mauritanie-Sitrep-COVID-19_FR.pdf</a></td>
 <td style="text-align: right;">333</td>
 </tr>
+<tr class="even">
+<td style="text-align: left;">Gambia - samples tested</td>
+<td style="text-align: left;">2021-04-08</td>
+<td style="text-align: left;"><a href="https://www.moh.gov.gm/" class="uri">https://www.moh.gov.gm/</a></td>
+<td style="text-align: right;">387</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Peru - tests performed</td>
+<td style="text-align: left;">2021-04-09</td>
+<td style="text-align: left;"><a href="https://datos.ins.gob.pe/dataset?q=%22pruebas+moleculares%22&amp;organization=covid-19" class="uri">https://datos.ins.gob.pe/dataset?q=%22pruebas+moleculares%22&amp;organization=covid-19</a></td>
+<td style="text-align: right;">460</td>
+</tr>
 </tbody>
 </table>
 
@@ -75,7 +87,6 @@ Missing countries:
     ## - Anguilla
     ## - Antigua and Barbuda
     ## - Aruba
-    ## - Azerbaijan
     ## - Bahamas
     ## - Barbados
     ## - Belize

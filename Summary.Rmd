@@ -2,7 +2,7 @@
 title: "Weekly Testing Dataset Summary"
 author: "Cam Appel"
 date: "03/04/2021"
-output: html_document
+output: md_document
 ---
 # Weekly Testing Dataset Summary `r Sys.Date()`
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
