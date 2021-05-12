@@ -1,4 +1,4 @@
-Weekly Testing Dataset Summary 2021-05-03
+Weekly Testing Dataset Summary 2021-05-11
 =========================================
 
 Out of date countries:
@@ -63,16 +63,10 @@ Out of date countries:
 <td style="text-align: right;">333</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Gambia - samples tested</td>
-<td style="text-align: left;">2021-04-08</td>
-<td style="text-align: left;"><a href="https://www.moh.gov.gm/" class="uri">https://www.moh.gov.gm/</a></td>
-<td style="text-align: right;">387</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Peru - tests performed</td>
-<td style="text-align: left;">2021-04-09</td>
-<td style="text-align: left;"><a href="https://datos.ins.gob.pe/dataset?q=%22pruebas+moleculares%22&amp;organization=covid-19" class="uri">https://datos.ins.gob.pe/dataset?q=%22pruebas+moleculares%22&amp;organization=covid-19</a></td>
-<td style="text-align: right;">460</td>
+<td style="text-align: left;">Malawi - samples tested</td>
+<td style="text-align: left;">2021-04-16</td>
+<td style="text-align: left;"><a href="https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download" class="uri">https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download</a></td>
+<td style="text-align: right;">384</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +109,7 @@ Missing countries:
     ## - Eritrea
     ## - Faeroe Islands
     ## - Falkland Islands
+    ## - French Polynesia
     ## - Gabon
     ## - Gibraltar
     ## - Greenland
@@ -133,7 +128,6 @@ Missing countries:
     ## - Land-locked Developing Countries (LLDC)
     ## - Laos
     ## - Least developed countries
-    ## - Lebanon
     ## - Lesotho
     ## - Less developed regions
     ## - Liberia
@@ -153,6 +147,7 @@ Missing countries:
     ## - Montserrat
     ## - More developed regions
     ## - Nauru
+    ## - New Caledonia
     ## - Nicaragua
     ## - Niger
     ## - Niue
@@ -165,6 +160,7 @@ Missing countries:
     ## - Saint Helena
     ## - Saint Kitts and Nevis
     ## - Saint Lucia
+    ## - Saint Pierre and Miquelon
     ## - Saint Vincent and the Grenadines
     ## - Samoa
     ## - San Marino
@@ -193,6 +189,7 @@ Missing countries:
     ## - Vanuatu
     ## - Vatican
     ## - Venezuela
+    ## - Wallis and Futuna
     ## - Western Sahara
     ## - World
     ## - Yemen
