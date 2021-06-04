@@ -1,15 +1,15 @@
-Weekly Testing Dataset Summary 2021-05-26
+Weekly Testing Dataset Summary 2021-06-04
 =========================================
 
 Out of date countries:
 ----------------------
 
-<table>
+<table style="width:100%;">
 <colgroup>
-<col style="width: 16%" />
-<col style="width: 6%" />
-<col style="width: 73%" />
-<col style="width: 3%" />
+<col style="width: 20%" />
+<col style="width: 8%" />
+<col style="width: 65%" />
+<col style="width: 4%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -45,46 +45,34 @@ Out of date countries:
 <td style="text-align: right;">333</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Malawi - samples tested</td>
-<td style="text-align: left;">2021-04-16</td>
-<td style="text-align: left;"><a href="https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download" class="uri">https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download</a></td>
-<td style="text-align: right;">384</td>
-</tr>
-<tr class="even">
 <td style="text-align: left;">El Salvador - tests performed</td>
 <td style="text-align: left;">2021-04-22</td>
 <td style="text-align: left;"><a href="https://diario.innovacion.gob.sv/?fechaMostrar=05-04-2020" class="uri">https://diario.innovacion.gob.sv/?fechaMostrar=05-04-2020</a></td>
 <td style="text-align: right;">383</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Thailand - tests performed</td>
 <td style="text-align: left;">2021-04-24</td>
 <td style="text-align: left;"><a href="https://service.dmsc.moph.go.th/labscovid19/" class="uri">https://service.dmsc.moph.go.th/labscovid19/</a></td>
 <td style="text-align: right;">477</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Peru - tests performed</td>
-<td style="text-align: left;">2021-04-26</td>
-<td style="text-align: left;"><a href="https://datos.ins.gob.pe/dataset?q=%22pruebas+moleculares%22&amp;organization=covid-19" class="uri">https://datos.ins.gob.pe/dataset?q=%22pruebas+moleculares%22&amp;organization=covid-19</a></td>
-<td style="text-align: right;">477</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Denmark - tests performed</td>
-<td style="text-align: left;">2021-05-03</td>
-<td style="text-align: left;"><a href="https://files.ssi.dk/covid19/overvagning/data/data-epidemiologiske-rapport-05052021-mai0" class="uri">https://files.ssi.dk/covid19/overvagning/data/data-epidemiologiske-rapport-05052021-mai0</a></td>
-<td style="text-align: right;">457</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Hong Kong - tests performed</td>
-<td style="text-align: left;">2021-05-04</td>
-<td style="text-align: left;"><a href="http://www.chp.gov.hk/files/misc/statistics_on_covid_19_testing_cumulative.csv" class="uri">http://www.chp.gov.hk/files/misc/statistics_on_covid_19_testing_cumulative.csv</a></td>
-<td style="text-align: right;">460</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Kenya - samples tested</td>
 <td style="text-align: left;">2021-05-04</td>
 <td style="text-align: left;"><a href="http://www.health.go.ke/wp-content/uploads/2020/03/COVID-19-Press-Release-6th-March2020.pdf" class="uri">http://www.health.go.ke/wp-content/uploads/2020/03/COVID-19-Press-Release-6th-March2020.pdf</a></td>
 <td style="text-align: right;">387</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Gambia - samples tested</td>
+<td style="text-align: left;">2021-05-09</td>
+<td style="text-align: left;"><a href="https://www.moh.gov.gm/" class="uri">https://www.moh.gov.gm/</a></td>
+<td style="text-align: right;">418</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ireland - tests performed</td>
+<td style="text-align: left;">2021-05-13</td>
+<td style="text-align: left;"><a href="https://covid19ireland-geohive.hub.arcgis.com/pages/hospitals-icu--testing" class="uri">https://covid19ireland-geohive.hub.arcgis.com/pages/hospitals-icu--testing</a></td>
+<td style="text-align: right;">422</td>
 </tr>
 </tbody>
 </table>
@@ -101,8 +89,6 @@ Missing countries:
     ## - Aruba
     ## - Bahamas
     ## - Barbados
-    ## - Belize
-    ## - Benin
     ## - Bermuda
     ## - Bonaire Sint Eustatius and Saba
     ## - Botswana
@@ -110,7 +96,6 @@ Missing countries:
     ## - Brunei
     ## - Burkina Faso
     ## - Burundi
-    ## - Cambodia
     ## - Cameroon
     ## - Cayman Islands
     ## - Central African Republic
@@ -141,10 +126,8 @@ Missing countries:
     ## - Honduras
     ## - Isle of Man
     ## - Kiribati
-    ## - Kosovo
     ## - Kyrgyzstan
     ## - Land-locked Developing Countries (LLDC)
-    ## - Laos
     ## - Least developed countries
     ## - Lesotho
     ## - Less developed regions
@@ -171,6 +154,7 @@ Missing countries:
     ## - Northern Mariana Islands
     ## - Palau
     ## - Papua New Guinea
+    ## - Pitcairn
     ## - Polynesia
     ## - Puerto Rico
     ## - Saint Helena
