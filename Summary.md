@@ -1,4 +1,4 @@
-# Weekly Testing Dataset Summary 2021-11-09
+# Weekly Testing Dataset Summary 2021-11-12
 
 ## Out of date countries:
 
@@ -67,100 +67,100 @@
 <td style="text-align: right;">1</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Brazil - tests performed</td>
-<td style="text-align: left;">2021-05-24</td>
-<td style="text-align: left;"><a href="https://www.saude.gov.br/noticias/agencia-saude/46707-saude-ja-distribuiu-quase-1-milhao-de-testes-para-coronavirus" class="uri">https://www.saude.gov.br/noticias/agencia-saude/46707-saude-ja-distribuiu-quase-1-milhao-de-testes-para-coronavirus</a></td>
-<td style="text-align: right;">98</td>
-</tr>
-<tr class="even">
 <td style="text-align: left;">South Sudan - tests performed</td>
 <td style="text-align: left;">2021-05-26</td>
 <td style="text-align: left;"><a href="https://moh.gov.ss/single_daily_report.php?report=August%2027th%20Updates.pdf" class="uri">https://moh.gov.ss/single_daily_report.php?report=August%2027th%20Updates.pdf</a></td>
 <td style="text-align: right;">273</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Kazakhstan - tests performed</td>
 <td style="text-align: left;">2021-06-08</td>
 <td style="text-align: left;"><a href="https://hls.kz/" class="uri">https://hls.kz/</a></td>
 <td style="text-align: right;">453</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Albania - tests performed</td>
 <td style="text-align: left;">2021-06-13</td>
 <td style="text-align: left;"><a href="https://shendetesia.gov.al/koronavirusi-mshms-asnje-rast-i-konfirmuar-ne-shqiperi/" class="uri">https://shendetesia.gov.al/koronavirusi-mshms-asnje-rast-i-konfirmuar-ne-shqiperi/</a></td>
 <td style="text-align: right;">475</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Lebanon - tests performed</td>
 <td style="text-align: left;">2021-06-23</td>
 <td style="text-align: left;"><a href="https://corona.ministryinfo.gov.lb/" class="uri">https://corona.ministryinfo.gov.lb/</a></td>
 <td style="text-align: right;">48</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Cuba - tests performed</td>
 <td style="text-align: left;">2021-07-04</td>
 <td style="text-align: left;"><a href="https://covid19cubadata.github.io/#cuba" class="uri">https://covid19cubadata.github.io/#cuba</a></td>
 <td style="text-align: right;">470</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Antigua and Barbuda - tests performed</td>
 <td style="text-align: left;">2021-07-13</td>
 <td style="text-align: left;"><a href="https://covid19.gov.ag" class="uri">https://covid19.gov.ag</a></td>
 <td style="text-align: right;">1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Malawi - samples tested</td>
 <td style="text-align: left;">2021-07-23</td>
 <td style="text-align: left;"><a href="https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download" class="uri">https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download</a></td>
 <td style="text-align: right;">413</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Fiji - tests performed</td>
 <td style="text-align: left;">2021-07-25</td>
 <td style="text-align: left;"><a href="http://www.health.gov.fj/covid-19-updates/" class="uri">http://www.health.gov.fj/covid-19-updates/</a></td>
 <td style="text-align: right;">543</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Democratic Republic of Congo - samples tested</td>
 <td style="text-align: left;">2021-08-20</td>
 <td style="text-align: left;"><a href="https://mailchi.mp/bf910bfc68ae/covid-19-bulletin-n-16-mercredi-le-08-avril-3908762" class="uri">https://mailchi.mp/bf910bfc68ae/covid-19-bulletin-n-16-mercredi-le-08-avril-3908762</a></td>
 <td style="text-align: right;">500</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Madagascar - tests performed</td>
 <td style="text-align: left;">2021-09-02</td>
 <td style="text-align: left;"><a href="https://www.facebook.com/minsanp/photos/a.359862397411684/3073250922739471/?__cft__%5B0%5D=AZVrMkcFpYCa4h233hWABnV2mUWEeivVb5nIUI7p6wJKjS98qT__kVl0BWKy4y5xEJRvjb-otGHPvR6QEwvL3FAcNTJqvtpgwLMzEOP_fNjBesboU36bSwTW4iRCWikxFvmw7x6W2H8JpWY5rRngCUSgWIhmyCT2QWhvIeSie9cgRAtweJ33x_sPyYHFjdhplXs&amp;__tn__=EH-R" class="uri">https://www.facebook.com/minsanp/photos/a.359862397411684/3073250922739471/?__cft__[0]=AZVrMkcFpYCa4h233hWABnV2mUWEeivVb5nIUI7p6wJKjS98qT__kVl0BWKy4y5xEJRvjb-otGHPvR6QEwvL3FAcNTJqvtpgwLMzEOP_fNjBesboU36bSwTW4iRCWikxFvmw7x6W2H8JpWY5rRngCUSgWIhmyCT2QWhvIeSie9cgRAtweJ33x_sPyYHFjdhplXs&amp;__tn__=EH-R</a></td>
 <td style="text-align: right;">493</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Cambodia - tests performed</td>
 <td style="text-align: left;">2021-09-10</td>
 <td style="text-align: left;"><a href="http://cdcmoh.gov.kh/" class="uri">http://cdcmoh.gov.kh/</a></td>
 <td style="text-align: right;">56</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">North Macedonia - tests performed</td>
 <td style="text-align: left;">2021-09-23</td>
 <td style="text-align: left;"><a href="https://koronavirus.gov.mk/stat" class="uri">https://koronavirus.gov.mk/stat</a></td>
 <td style="text-align: right;">543</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Indonesia - people tested</td>
 <td style="text-align: left;">2021-09-26</td>
 <td style="text-align: left;"><a href="https://web.archive.org/web/20200317051742/https://covid19.kemkes.go.id/" class="uri">https://web.archive.org/web/20200317051742/https://covid19.kemkes.go.id/</a></td>
 <td style="text-align: right;">560</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Bangladesh - tests performed</td>
-<td style="text-align: left;">2021-10-02</td>
-<td style="text-align: left;"><a href="https://covid19bd.idare.io/" class="uri">https://covid19bd.idare.io/</a></td>
-<td style="text-align: right;">579</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Trinidad and Tobago - people tested</td>
 <td style="text-align: left;">2021-10-06</td>
 <td style="text-align: left;"><a href="https://www.covid19.gov.tt/trinidad-and-tobago-covid-19-novel-coronavirus-update-166/" class="uri">https://www.covid19.gov.tt/trinidad-and-tobago-covid-19-novel-coronavirus-update-166/</a></td>
 <td style="text-align: right;">520</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Timor - tests performed</td>
+<td style="text-align: left;">2021-10-20</td>
+<td style="text-align: left;"><a href="https://covid19.gov.tl/dashboard/" class="uri">https://covid19.gov.tl/dashboard/</a></td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Uruguay - tests performed</td>
+<td style="text-align: left;">2021-10-21</td>
+<td style="text-align: left;"><a href="https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/informe-situacion-relacion-coronavirus-covid-19-uruguay-1" class="uri">https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/informe-situacion-relacion-coronavirus-covid-19-uruguay-1</a></td>
+<td style="text-align: right;">573</td>
 </tr>
 </tbody>
 </table>
