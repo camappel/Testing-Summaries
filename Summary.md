@@ -1,4 +1,4 @@
-# Weekly Testing Dataset Summary 2021-11-12
+# Weekly Testing Dataset Summary 2021-11-16
 
 ## Out of date countries:
 
@@ -133,34 +133,34 @@
 <td style="text-align: right;">56</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">North Macedonia - tests performed</td>
-<td style="text-align: left;">2021-09-23</td>
-<td style="text-align: left;"><a href="https://koronavirus.gov.mk/stat" class="uri">https://koronavirus.gov.mk/stat</a></td>
-<td style="text-align: right;">543</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">Indonesia - people tested</td>
 <td style="text-align: left;">2021-09-26</td>
 <td style="text-align: left;"><a href="https://web.archive.org/web/20200317051742/https://covid19.kemkes.go.id/" class="uri">https://web.archive.org/web/20200317051742/https://covid19.kemkes.go.id/</a></td>
 <td style="text-align: right;">560</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Trinidad and Tobago - people tested</td>
 <td style="text-align: left;">2021-10-06</td>
 <td style="text-align: left;"><a href="https://www.covid19.gov.tt/trinidad-and-tobago-covid-19-novel-coronavirus-update-166/" class="uri">https://www.covid19.gov.tt/trinidad-and-tobago-covid-19-novel-coronavirus-update-166/</a></td>
 <td style="text-align: right;">520</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Timor - tests performed</td>
 <td style="text-align: left;">2021-10-20</td>
 <td style="text-align: left;"><a href="https://covid19.gov.tl/dashboard/" class="uri">https://covid19.gov.tl/dashboard/</a></td>
 <td style="text-align: right;">100</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Uruguay - tests performed</td>
 <td style="text-align: left;">2021-10-21</td>
 <td style="text-align: left;"><a href="https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/informe-situacion-relacion-coronavirus-covid-19-uruguay-1" class="uri">https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/informe-situacion-relacion-coronavirus-covid-19-uruguay-1</a></td>
 <td style="text-align: right;">573</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Dominican Republic - samples tested</td>
+<td style="text-align: left;">2021-10-26</td>
+<td style="text-align: left;"><a href="https://www.msp.gob.do/web/wp-content/uploads/2020/04/Boletin-Especial-01.pdf" class="uri">https://www.msp.gob.do/web/wp-content/uploads/2020/04/Boletin-Especial-01.pdf</a></td>
+<td style="text-align: right;">588</td>
 </tr>
 </tbody>
 </table>
