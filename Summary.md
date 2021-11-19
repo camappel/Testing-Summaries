@@ -1,4 +1,4 @@
-# Weekly Testing Dataset Summary 2021-11-16
+# Weekly Testing Dataset Summary 2021-11-19
 
 ## Out of date countries:
 
@@ -161,6 +161,30 @@
 <td style="text-align: left;">2021-10-26</td>
 <td style="text-align: left;"><a href="https://www.msp.gob.do/web/wp-content/uploads/2020/04/Boletin-Especial-01.pdf" class="uri">https://www.msp.gob.do/web/wp-content/uploads/2020/04/Boletin-Especial-01.pdf</a></td>
 <td style="text-align: right;">588</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Myanmar - samples tested</td>
+<td style="text-align: left;">2021-10-27</td>
+<td style="text-align: left;"><a href="https://mohs.gov.mm/page/9575" class="uri">https://mohs.gov.mm/page/9575</a></td>
+<td style="text-align: right;">505</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Qatar - people tested</td>
+<td style="text-align: left;">2021-10-27</td>
+<td style="text-align: left;"><a href="https://www.data.gov.qa/pages/dashboard-covid-19-cases-in-qatar/" class="uri">https://www.data.gov.qa/pages/dashboard-covid-19-cases-in-qatar/</a></td>
+<td style="text-align: right;">595</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Botswana - tests performed</td>
+<td style="text-align: left;">2021-10-29</td>
+<td style="text-align: left;"><a href="https://datastudio.google.com/u/0/reporting/46b5a8f8-1271-498b-bdd2-d325f3f6297f/page/K2uXB" class="uri">https://datastudio.google.com/u/0/reporting/46b5a8f8-1271-498b-bdd2-d325f3f6297f/page/K2uXB</a></td>
+<td style="text-align: right;">575</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">South Korea - people tested</td>
+<td style="text-align: left;">2021-10-29</td>
+<td style="text-align: left;"><a href="https://www.cdc.go.kr/board/board.es?mid=&amp;bid=0030" class="uri">https://www.cdc.go.kr/board/board.es?mid=&amp;bid=0030</a></td>
+<td style="text-align: right;">648</td>
 </tr>
 </tbody>
 </table>
