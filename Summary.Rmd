@@ -15,6 +15,7 @@ data <- read_csv(url("https://raw.githubusercontent.com/owid/covid-19-data/maste
   select(1, 3, 4) %>%
   group_by(Entity) %>%
   summarise(max(Date), `Source URL` = first(`Source URL`), Counts=n())
+data['active'] <- NA
 for (i in 1:nrow(data)) {
   if(data[[i,2]] > Sys.Date()-21) {
     data$active[[i]] = "active"
@@ -31,19 +32,19 @@ inactive <- inactive[, c(1,2,3,4)]
 inactive <- inactive[order(inactive$`Last updated`),]
 
 # missing countries
-df_loc <- data
-df_loc$Entity <- gsub("[^ ][^-]*$","",data$Entity) %>%
-  trimws()
-df_pop <- read_csv("https://raw.githubusercontent.com/owid/covid-19-data/master/scripts/input/un/population_2020.csv")
-
-miss <- list()
-
-for (i in df_pop$entity) {
-  match <- i %in% df_loc$Entity
-  if(!match) {
-    miss[[length(miss)+1]] <- i
-  }
-}
+# df_loc <- data
+# df_loc$Entity <- gsub("[^ ][^-]*$","",data$Entity) %>%
+#   trimws()
+# df_pop <- read_csv("https://raw.githubusercontent.com/owid/covid-19-data/master/scripts/input/un/population_2020.csv")
+# 
+# miss <- list()
+# 
+# for (i in df_pop$entity) {
+#   match <- i %in% df_loc$Entity
+#   if(!match) {
+#     miss[[length(miss)+1]] <- i
+#   }
+# }
 ```
 ## Out of date countries:
 ```{r echo=FALSE}
@@ -51,7 +52,7 @@ knitr::kable(inactive)
 ```
 ## Missing countries:
 ```{r echo=FALSE}
-cat(paste('-',miss),sep='\n')
+# cat(paste('-',miss),sep='\n')
 ```
 
 <iframe src="https://ourworldindata.org/grapher/countries-included-in-the-covid-19-testing-dataset" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
