@@ -1,8 +1,8 @@
-# Weekly Testing Dataset Summary 2022-01-13
+# Weekly Testing Dataset Summary 2022-01-17
 
 ## Out of date countries:
 
-<table>
+<table style="width:100%;">
 <colgroup>
 <col style="width: 22%" />
 <col style="width: 6%" />
@@ -28,7 +28,7 @@
 <td style="text-align: left;">China - tests performed</td>
 <td style="text-align: left;">2020-08-06</td>
 <td style="text-align: left;"><a href="http://en.nhc.gov.cn/2020-06/26/c_80913.htm" class="uri">http://en.nhc.gov.cn/2020-06/26/c_80913.htm</a></td>
-<td style="text-align: right;">2</td>
+<td style="text-align: right;">44</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Canada - people tested</td>
@@ -40,7 +40,7 @@
 <td style="text-align: left;">Mauritania - tests performed</td>
 <td style="text-align: left;">2021-04-04</td>
 <td style="text-align: left;"><a href="http://www.sante.gov.mr/wp-content/uploads/2020/04/01-04-2020-Mauritanie-Sitrep-COVID-19_FR.pdf" class="uri">http://www.sante.gov.mr/wp-content/uploads/2020/04/01-04-2020-Mauritanie-Sitrep-COVID-19_FR.pdf</a></td>
-<td style="text-align: right;">333</td>
+<td style="text-align: right;">369</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Papua New Guinea - tests performed</td>
@@ -100,7 +100,7 @@
 <td style="text-align: left;">Malawi - samples tested</td>
 <td style="text-align: left;">2021-07-23</td>
 <td style="text-align: left;"><a href="https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download" class="uri">https://malawipublichealth.org/index.php/resources/COVID-19%20Daily%20updates/DAILY%20UPDATE%20COVID-19%20_29%20Mar%202020.pdf/download</a></td>
-<td style="text-align: right;">413</td>
+<td style="text-align: right;">482</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Fiji - tests performed</td>
@@ -118,7 +118,7 @@
 <td style="text-align: left;">Cambodia - tests performed</td>
 <td style="text-align: left;">2021-09-10</td>
 <td style="text-align: left;"><a href="http://cdcmoh.gov.kh/" class="uri">http://cdcmoh.gov.kh/</a></td>
-<td style="text-align: right;">56</td>
+<td style="text-align: right;">115</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Trinidad and Tobago - people tested</td>
@@ -145,22 +145,40 @@
 <td style="text-align: right;">595</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Georgia - tests performed</td>
-<td style="text-align: left;">2021-10-30</td>
-<td style="text-align: left;"><a href="https://agenda.ge/en/news/2021/883" class="uri">https://agenda.ge/en/news/2021/883</a></td>
-<td style="text-align: right;">212</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">Moldova - tests performed</td>
 <td style="text-align: left;">2021-11-12</td>
 <td style="text-align: left;"><a href="https://noi.md/md/societate/coronavirus-in-moldova-statistica-infectarilor-pe-teritoriul-tarii-428097" class="uri">https://noi.md/md/societate/coronavirus-in-moldova-statistica-infectarilor-pe-teritoriul-tarii-428097</a></td>
 <td style="text-align: right;">180</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Kenya - samples tested</td>
 <td style="text-align: left;">2021-12-17</td>
 <td style="text-align: left;"><a href="http://www.health.go.ke/wp-content/uploads/2020/03/COVID-19-Press-Release-6th-March2020.pdf" class="uri">http://www.health.go.ke/wp-content/uploads/2020/03/COVID-19-Press-Release-6th-March2020.pdf</a></td>
-<td style="text-align: right;">388</td>
+<td style="text-align: right;">652</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Gambia - samples tested</td>
+<td style="text-align: left;">2021-12-26</td>
+<td style="text-align: left;"><a href="https://www.moh.gov.gm/wp-content/uploads/2021/07/GMB_COVID-19_Situational_Report_2021_22nd_25th_July_No_346docx-1.pdf" class="uri">https://www.moh.gov.gm/wp-content/uploads/2021/07/GMB_COVID-19_Situational_Report_2021_22nd_25th_July_No_346docx-1.pdf</a></td>
+<td style="text-align: right;">155</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sweden - tests performed</td>
+<td style="text-align: left;">2021-12-26</td>
+<td style="text-align: left;"><a href="https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/antal-individer-som-har-testats-for-covid-19/" class="uri">https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/antal-individer-som-har-testats-for-covid-19/</a></td>
+<td style="text-align: right;">532</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Botswana - tests performed</td>
+<td style="text-align: left;">2021-12-27</td>
+<td style="text-align: left;"><a href="https://datastudio.google.com/u/0/reporting/46b5a8f8-1271-498b-bdd2-d325f3f6297f/page/K2uXB" class="uri">https://datastudio.google.com/u/0/reporting/46b5a8f8-1271-498b-bdd2-d325f3f6297f/page/K2uXB</a></td>
+<td style="text-align: right;">634</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Peru - tests performed</td>
+<td style="text-align: left;">2021-12-27</td>
+<td style="text-align: left;"><a href="https://datos.ins.gob.pe/dataset/dataset-de-pruebas-moleculares-del-instituto-nacional-de-salud-ins" class="uri">https://datos.ins.gob.pe/dataset/dataset-de-pruebas-moleculares-del-instituto-nacional-de-salud-ins</a></td>
+<td style="text-align: right;">727</td>
 </tr>
 </tbody>
 </table>
